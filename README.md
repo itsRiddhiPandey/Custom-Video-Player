@@ -14,11 +14,7 @@ A custom video player built using HTML, CSS, and JavaScript. This project enhanc
 - 🎨 CSS
 - ⚡ JavaScript
 
-## 🚀 Live Demo
-🔗 [Live Demo](https://your-live-demo-link.com)
 
-## 📷 Preview
-![Video Player Preview](https://your-preview-image-link.com)
 
 ## 📥 Setup Instructions
 1. Clone the repository:
